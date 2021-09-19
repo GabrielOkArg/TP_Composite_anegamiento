@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccionTerrenos.cs" />
+    <Compile Include="Composite\Anegado.cs" />
+    <Compile Include="Composite\SoloAgua.cs" />
+    <Compile Include="Composite\SoloTierra.cs" />
+    <Compile Include="Composite\Terreno.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
