@@ -1,0 +1,7 @@
+D:\Project\TP4_anegamiento\TP4_anegamiento\bin\Debug\TP4_anegamiento.exe.config
+D:\Project\TP4_anegamiento\TP4_anegamiento\bin\Debug\TP4_anegamiento.exe
+D:\Project\TP4_anegamiento\TP4_anegamiento\bin\Debug\TP4_anegamiento.pdb
+D:\Project\TP4_anegamiento\TP4_anegamiento\obj\Debug\TP4_anegamiento.csprojAssemblyReference.cache
+D:\Project\TP4_anegamiento\TP4_anegamiento\obj\Debug\TP4_anegamiento.csproj.CoreCompileInputs.cache
+D:\Project\TP4_anegamiento\TP4_anegamiento\obj\Debug\TP4_anegamiento.exe
+D:\Project\TP4_anegamiento\TP4_anegamiento\obj\Debug\TP4_anegamiento.pdb
